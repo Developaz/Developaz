@@ -27,7 +27,7 @@
 * PD / 팀장
 * 기획 / 아트 디렉팅 및 클라이언트 개발
 ---
-### Meta Arena ( 개발기간 : 2022년 10월 ~ 2024년 1월 )
+### - Meta Arena ( 개발기간 : 2022년 10월 ~ 2024년 1월 )
 ![1_k_c3l3uk-THezR4F_B2HXg](https://github.com/user-attachments/assets/4726116e-6f75-4004-a02a-1a484a561edf)
 #### 1. 개요
 * 장르 : 오토배틀러
@@ -43,3 +43,85 @@
 * PD / 팀장
 * 클라이언트 구조 / 설계
 * 3D 기술 지원 및 Cocos Creator 기술 지원
+---
+### 서머너즈 마스터 ( 개발기간 : 2018년 6월 ~ 2019년 10월 )
+![screen-0](https://github.com/user-attachments/assets/14b188e5-728a-443b-869e-621070081e5b)
+#### 1. 개요
+- 장르 : 디펜스
+- 플랫폼 : AOS / iOS
+- 2019년 구글 / 앱스토어 / 원스토어 출시
+- 원스토어 피쳐드 프로젝트
+- 트리니티 마스터 IP를 활용
+#### 2. 기술 스택
+- 사용엔진 : Unity
+- 사용언어 : C#
+#### 3. 역할
+- 메인 클라이언트 개발
+- 클라이언트 구조 / 설계
+- 웹 및 소켓 통신 작업
+- 게임 최적화 작업( mesh optimize, gc, batching system, lightmap )
+- NGUI 기술 대응( particle system NGUI widget 개발, sdf font NGUI 개발 )
+- 5Rocks, Google Signing, OneStore 등 SDK 대응
+---
+### 트리니티 마스터 ( 개발기간 : 2015년 1월 ~ 2018년 3월 )
+![502280435a9cd51e174660020-1520227633](https://github.com/user-attachments/assets/d404ede5-33be-4ab8-92b9-14c1262ae16d)
+#### 1. 개요
+- 장르 : 디펜스
+- 플랫폼 : AOS / iOS
+- 2018년 일본 구글 / 앱스토어 출시
+- 스퀘어 에닉스 공동 프로젝트( https://www.jp.square-enix.com/topics/detail/188/ )
+#### 2. 기술 스택
+- 사용엔진 : Unity
+- 사용언어 : C#
+#### 3. 역할
+- 메인 클라이언트 개발
+- 클라이언트 구조 / 설계
+- 웹 및 소켓 통신 작업
+- 게임 최적화 작업( mesh optimize, gc, batching system, lightmap )
+- 스퀘어 에닉스 라이브러리 대응( C++ Library AOS / iOS 적용 )
+---
+### 토이배틀 ( 개발기간 : 2013년 1월 ~ 2014년 6월 )
+![Screenshot_2014-06-25-17-33-55](https://github.com/user-attachments/assets/7beb3476-3706-4d63-8c04-ca46519f95c7)
+#### 1. 개요
+- 장르 : SNG
+- 플랫폼 : AOS / iOS
+- 2014년 구글 / 앱스토어 출시
+- 관련 기사 : https://zdnet.co.kr/view/?no=20140624161401
+#### 2. 기술 스택
+- 사용엔진 : Corona SDK
+- 사용언어 : Lua
+#### 3. 역할
+- 클라이언트 서브 개발
+- 게임 UI 제작
+- 수확, 건물업그레이드등 아웃게임 제작
+- 인게임 전투 제작
+---
+### 던전앤다크 ( 개발기간 : 2012년 3월 ~ 2012년 12월 )
+![D D_1](https://github.com/user-attachments/assets/d066b677-5209-4cda-9aeb-88446e417384) ![D D_2](https://github.com/user-attachments/assets/88161278-c422-472e-9034-5c822e86bf37)
+#### 1. 개요
+- 장르 : 액션 RPG
+- 플랫폼 : Wipi
+- 2012년 SKT, KT, LGT 런칭
+- 나무위키 : https://namu.wiki/w/%EB%8D%98%EC%A0%84%EC%95%A4%EB%8B%A4%ED%81%AC
+#### 2. 기술 스택
+- 사용엔진 : 자체엔진
+- 사용언어 : C
+#### 3. 역할
+- 클라이언트 서브 개발
+- 인게임 전투 AI 및 전투 로직 개발
+---
+### 그란트리아 ( 개발기간 : 2010년 1월 ~ 2012년 2월 )
+![그란트리아2](https://github.com/user-attachments/assets/36125d1e-2530-4dc8-aae9-c099749fa3c8)
+#### 1. 개요
+- 장르 : 액션 RPG
+- 플랫폼 : Wipi, AOS / iOS
+- 2011년 SKT, KT, LGT 런칭
+- 2012년 구글 / 앱스토어 출시
+- 나무위키 : https://namu.wiki/w/%EA%B7%B8%EB%9E%80%ED%8A%B8%EB%A6%AC%EC%95%84
+#### 2. 기술 스택
+- 사용엔진 : 자체엔진
+- 사용언어 : C
+#### 3. 역할
+- 메인 기획 / 클라이언트 개발
+- 레벨디자인, 게임 시스템등 메인기획 업무
+- AOS / iOS 런칭 준비를 위한 QA 대응 개발 업무
