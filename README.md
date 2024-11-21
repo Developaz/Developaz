@@ -29,7 +29,7 @@
 <br/>
   
 ## 프로젝트
-### Mudol 2 Run ( 개발기간 : 2024년 5월 ~ 2024년 10월 )
+### Mudol 2 Run
 ![1_jQRGwkIirQPPSZTnSP6fkA](https://github.com/user-attachments/assets/bcba7eb9-76e0-4063-a5a1-051693826030)
 #### 1. 개요
 * 소개 : Mudol2 Token 리브랜딩을 위한 Web3 2D 게임 프로젝트
