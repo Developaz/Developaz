@@ -32,18 +32,25 @@
 ### Mudol 2 Run ( 개발기간 : 2024년 5월 ~ 2024년 10월 )
 ![1_jQRGwkIirQPPSZTnSP6fkA](https://github.com/user-attachments/assets/bcba7eb9-76e0-4063-a5a1-051693826030)
 #### 1. 개요
+* 소개 : Mudol2 Token 리브랜딩을 위한 Web3 2D 게임 프로젝트
 * 장르 : 하이퍼 캐주얼 슈팅
+* 개발기간 : 2024.05 ~ 2024.10, 현재 LIVE 운영중
+* 참여인원 : 클라이언트 개발 1 / 웹 개발 1 / 백엔드 개발 1 / 기획 1 / 디자인 2
 * 플랫폼 : Web, Telegram
 * 2024년 10월 Telegram WebApp 서비스
-* Mudol2 Token 리브랜딩을 위한 Web3 2D 게임 프로젝트
 * 홈페이지 : https://mudol2.com/
 * 텔레그램 봇 : https://t.me/MUDOL2RUN_Bot
 #### 2. 기술 스택
 * 사용엔진 : Cocos Creator
 * 사용언어 : JavaScript / TypeScript
-#### 3. 역할
-* PD / 팀장
-* 기획 / 아트 디렉팅 및 클라이언트 개발
+#### 3. 담당업무
+* 게임 개발 PD로 전체 일정 관리 및 기획, 아트 디렉팅
+* 게임 인게임 / 아웃게임 개발 및 빌드 관리
+* 2D Atlas, Webp 등 리소스 관리 및 최적화
+* Wagmi를 이용한 Web3 Wallet 연동 개발
+* 서버 / 클라 간의 HTTP 통신 개발 및 Data 암복화 적용
+* AWS S3와 CloudFront 설정 및 게임 배포 관리
+* GIT Branch 관리 및 Tag 관리
 ---
 ### Meta Arena ( 개발기간 : 2022년 10월 ~ 2024년 1월 )
 ![1_k_c3l3uk-THezR4F_B2HXg](https://github.com/user-attachments/assets/4726116e-6f75-4004-a02a-1a484a561edf)
