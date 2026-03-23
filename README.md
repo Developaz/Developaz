@@ -11,6 +11,8 @@
 <br/>
 
 ## 경력
+#### 하이브로 / 시니어 프로그래머 ( 2025.01 ~ 2026.03 )
+  * 타이니팜:리마스터 개발 / 런칭 / 라이브 ( 2025.03 ~ )
 #### 나트리스 / PD, 팀장 ( 2022.10 ~ 2024.11 )
   * Mudol 2 Run 개발 / 런칭 / 라이브 ( 2024.05 ~ 2024.11 )
   * Meta Arena 개발 / 런칭 / 라이브 ( 2022.10 ~ 2024.04 )
@@ -29,6 +31,25 @@
 <br/>
   
 ## 프로젝트
+### 타이니팜:리마스터
+#### 1. 개요
+* 소개 : 2012년 컴투스 타이니팜 리마스터 버전
+* 장르 : SNG
+* 개발기간 : 2024.03 ~ 2025.03, 현재 LIVE 운영중
+* 참여인원 : 클라이언트 3 / 서버 1 / 기획 2 / UI 1
+* 플랫폼 : AOS / iOS
+* 2025년 3월 구글 / 앱스토어 글로벌 서비스
+* 구글 / 앱스토어 인기순위 1위 달성
+#### 2. 기술 스택
+* 사용엔진 : Unity
+* 사용언어 : C#
+#### 3. 담당업무
+* Unity 엔진을 이용한 AOS / iOS 게임 제작
+* Rendering 최적화 및 로직 최적화 작업
+* FIrebase Crashlytics를 이용한 버그 Tracking 및 문제 수정
+* Addressable Asset 관리 및 패치 배포
+* Jenkins 빌드 자동화
+* Google SpreadSheet AppsScript 개발
 ### Mudol 2 Run
 ![1_jQRGwkIirQPPSZTnSP6fkA](https://github.com/user-attachments/assets/bcba7eb9-76e0-4063-a5a1-051693826030)
 #### 1. 개요
