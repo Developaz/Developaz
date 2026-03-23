@@ -32,7 +32,7 @@
   
 ## 프로젝트
 ### 타이니팜:리마스터
-![nXmTS5nNpswRHWExt4TRi__obXLS6CzGCBSX_gE-uE68NDkn4-dPruutdBq9sNas9IKC7PlygF9jC9p3Lwv1S92-Kykiu7p-lB4Bz2gnRAB-kVPYfNI-GY1eRp299MvGH_I6NeVkk6SFdow9e9dnSg](https://github.com/user-attachments/assets/3e5b2611-6db5-4ebb-ba4c-49840fb5bfd4)
+![nXmTS5nNpswRHWExt4TRi__obXLS6CzGCBSX_gE-uE68NDkn4-dPruutdBq9sNas9IKC7PlygF9jC9p3Lwv1S92-Kykiu7p-lB4Bz2gnRAB-kVPYfNI-GY1eRp299MvGH_I6NeVkk6SFdow9e9dnSg 중간](https://github.com/user-attachments/assets/ed32fef5-5b2d-4944-a813-41b4b8e3ae5c)
 #### 1. 개요
 * 소개 : 2012년 컴투스 타이니팜 리마스터 버전
 * 장르 : SNG
